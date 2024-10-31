@@ -1,0 +1,2 @@
+require("psanctuary")
+print("hello")
